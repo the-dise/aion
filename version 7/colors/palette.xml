@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aion_black">#ff000000</color>
+    <color name="aion_white">#ffe3e3e3</color>
+    <color name="aion_gray_300">#ffdadce0</color>
+    <color name="aion_gray_600">#ff757575</color>
+    <color name="aion_gray_800">#ff3c4043</color>
+    <color name="aion_gray_900">#ff212124</color>
+
+    <color name="aion_blue">#ff75acff</color>
+    <color name="aion_blue_mid">#ff5e89cc</color>
+
+    <color name="aion_cyan">#ff78d9ec</color>
+    <color name="aion_cyan_mid">#ff60aebd</color>
+
+    <color name="aion_green">#ff72e5ba</color>
+    <color name="aion_green_mid">#ff5bb795</color>
+
+    <color name="aion_orange">#ffffa082</color>
+    <color name="aion_orange_mid">#ffcc8068</color>
+
+    <color name="aion_pink">#ffff8bcb</color>
+    <color name="aion_pink_mid">#ffcc6fa2</color>
+
+    <color name="aion_purple">#ffa388fa</color>
+    <color name="aion_purple_mid">#ff826dc8</color>
+
+    <color name="aion_red">#ffff746e</color>
+    <color name="aion_red_mid">#ffcc5d58</color>
+
+    <color name="aion_yellow">#fffff965</color>
+    <color name="aion_yellow_mid">#ffccc751</color>
+
+    <color name="aion_yellow_pop">#fffde293</color>
+    <color name="aion_yellow_pop_mid">#fffdd663</color>
+</resources>

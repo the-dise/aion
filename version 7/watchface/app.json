@@ -1,0 +1,32 @@
+{
+  "app": {
+    "appId": 171799996,
+    "appName": "Aion 7",
+    "appType": "watchface",
+    "description": "Minimalist Watchface for Mi Band 7",
+    "icon": "preview.png",
+    "vender": "the_dise",
+    "version": {
+      "code": 1,
+      "name": "1.0"
+    }
+  },
+  "configVersion": "v2",
+  "module": {
+    "watchface": {
+      "editable": 1,
+      "hightCost": 0,
+      "lockscreen": 1,
+      "main": 1,
+      "path": "watchface/index"
+    }
+  },
+  "permissions": ["gps"],
+  "runtime": {
+    "apiVersion": {
+      "compatible": "1.0.0",
+      "minVersion": "1.0.0",
+      "target": "1.0.1"
+    }
+  }
+}

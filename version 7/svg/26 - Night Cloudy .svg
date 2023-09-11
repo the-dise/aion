@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.6.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FBBC04;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_00000108279748122804719540000013864970043997255091_);}
+	.st3{fill:url(#SVGID_00000034081940566490443610000006380501515742137473_);}
+	.st4{fill:#F1F3F4;}
+</style>
+<path class="st0" d="M16,0c-2.3,2.7-3.6,6.2-3.6,10c0,8.8,7.4,16,16.5,16c0.2,0,0.3,0,0.5,0c-3,3.7-7.7,6-12.9,6C7.4,32,0,24.8,0,16
+	C0,7.3,7.1,0.3,16,0z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-2.5254" y1="30.9142" x2="32.9879" y2="1.8496" gradientTransform="matrix(1 0 0 -1 0 34)">
+	<stop  offset="0" style="stop-color:#FCD35C"/>
+	<stop  offset="1" style="stop-color:#FBBC04"/>
+</linearGradient>
+<path class="st1" d="M16,0c-2.3,2.7-3.6,6.2-3.6,10c0,8.8,7.4,16,16.5,16c0.2,0,0.3,0,0.5,0c-3,3.7-7.7,6-12.9,6C7.4,32,0,24.8,0,16
+	C0,7.3,7.1,0.3,16,0z"/>
+<linearGradient id="SVGID_00000023266941347388822500000005288065187942482569_" gradientUnits="userSpaceOnUse" x1="19.0921" y1="15.1429" x2="32.264" y2="-1.4386" gradientTransform="matrix(1 0 0 -1 0 34)">
+	<stop  offset="0" style="stop-color:#F1F3F4"/>
+	<stop  offset="1" style="stop-color:#DEDFDF"/>
+</linearGradient>
+<path style="fill:url(#SVGID_00000023266941347388822500000005288065187942482569_);" d="M20,32c6.6,0,12-5.4,12-12S26.6,8,20,8
+	S8,13.4,8,20S13.4,32,20,32z"/>
+<linearGradient id="SVGID_00000090278819073144663450000006941328191420098446_" gradientUnits="userSpaceOnUse" x1="24.9802" y1="1.6727" x2="4.3633" y2="29.2973" gradientTransform="matrix(1 0 0 -1 0 34)">
+	<stop  offset="0" style="stop-color:#E4E5E5"/>
+	<stop  offset="1" style="stop-color:#FCD35C"/>
+</linearGradient>
+<path style="fill:url(#SVGID_00000090278819073144663450000006941328191420098446_);" d="M8.2,22.2C8.1,21.5,8,20.7,8,20
+	c0-3.8,1.7-7.1,4.4-9.3C12.8,19.2,20,26,28.9,26c0.2,0,0.3,0,0.5,0c-2.3,2.8-5.7,4.9-9.5,5.7c-0.2-5.4-4.6-9.6-10-9.6
+	C9.4,22,8.8,22.1,8.2,22.2z"/>
+<path class="st4" d="M20,32c0-5.5-4.5-10-10-10C4.5,22,0,26.5,0,32c0,0,5,0,10,0c-5,0-10,0-10,0c0-5.5,4.5-10,10-10
+	C15.5,22,20,26.5,20,32L20,32z"/>
+<path class="st4" d="M20,32c0-5.5-4.5-10-10-10C4.5,22,0,26.5,0,32C0,32,20,32,20,32z"/>
+</svg>

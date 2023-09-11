@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<svg height="32.0" viewBox="0 0 32.0 32.0" width="32.0" xmlns="http://www.w3.org/2000/svg">
+       <linearGradient id="grad0" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="35.5133" y2="29.0646">
+	 <stop  offset="0" style="stop-color:#fcd35c"/>
+	 <stop  offset="1" style="stop-color:#fbbc04"/>
+  </linearGradient>
+     <linearGradient id="grad1" gradientUnits="userSpaceOnUse" x1="14.0488" y1="17.1311" x2="28.0" y2="34.7363">
+	 <stop  offset="0" style="stop-color:#f1f3f4"/>
+	 <stop  offset="1" style="stop-color:#dedfdf"/>
+  </linearGradient>
+       <linearGradient id="grad2" gradientUnits="userSpaceOnUse" x1="23.7204" y1="24.0" x2="15.8614" y2="7.12014">
+	 <stop  offset="0" style="stop-color:#e4e5e5"/>
+	 <stop  offset="1" style="stop-color:#fcd35c"/>
+  </linearGradient>
+  <path d="M16,24C22.6274,24 28,18.6274 28,12C28,5.3726 22.6274,0 16,0C9.3726,0 4,5.3726 4,12C4,18.6274 9.3726,24 16,24Z" fill="#fbbc04"/>
+  <path d="M16,24C22.6274,24 28,18.6274 28,12C28,5.3726 22.6274,0 16,0C9.3726,0 4,5.3726 4,12C4,18.6274 9.3726,24 16,24Z" style="fill:url(#grad0);"/>
+  <path d="M19,32C23.9706,32 28,27.9706 28,23C28,18.0294 23.9706,14 19,14C14.0294,14 10,18.0294 10,23C10,27.9706 14.0294,32 19,32Z" style="fill:url(#grad1);"/>
+  <path d="M10.0195,22.4058C10.3255,17.7122 14.2293,14 19.0002,14C22.0895,14 24.8153,15.5565 26.4361,17.9281C24.3716,21.5545 20.4715,24 16.0002,24C13.8225,24 11.7802,23.4199 10.0195,22.4058Z" style="fill:url(#grad2);"/>
+  <path d="M19,32C19,27.8579 15.6421,24.5 11.5,24.5C7.3579,24.5 4,27.8579 4,32C4.0111,31.983 19.0039,31.9884 19,32Z" fill="#f1f3f4"/>
+</svg>

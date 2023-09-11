@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<svg height="32.0" viewBox="0 0 32.0 32.0" width="32.0" xmlns="http://www.w3.org/2000/svg">
+     <linearGradient id="grad0" gradientUnits="userSpaceOnUse" x1="8" y1="0" x2="31.5865" y2="23.5865">
+	 <stop  offset="0" style="stop-color:#f1f3f4"/>
+	 <stop  offset="1" style="stop-color:#dadce0"/>
+  </linearGradient>
+       <linearGradient id="grad1" gradientUnits="userSpaceOnUse" x1="20" y1="24" x2="10" y2="24">
+	 <stop  offset="0" style="stop-color:#ffffff"/>
+	 <stop  offset="1" style="stop-color:#f1f3f4"/>
+  </linearGradient>
+  <g>
+    <path d="M20,24C26.6274,24 32,18.6274 32,12C32,5.3726 26.6274,0 20,0C13.3726,0 8,5.3726 8,12C8,18.6274 13.3726,24 20,24Z" fill="#f1f3f4"/>
+    <path d="M20,24C26.6274,24 32,18.6274 32,12C32,5.3726 26.6274,0 20,0C13.3726,0 8,5.3726 8,12C8,18.6274 13.3726,24 20,24Z" style="fill:url(#grad0);"/>
+    <path d="M20,24C20,18.4772 15.5228,14 10,14C4.4771,14 0,18.4772 0,24C0.0148,23.9774 20.0052,23.9846 20,24Z" style="fill:url(#grad1);"/>
+    <path d="M28,10.4287V15.5716" fill="#000000" stroke="#5e89cc" stroke-linecap="square" stroke-width="1.0"/>
+    <path d="M25.7734,11.7144L30.2273,14.2858" fill="#000000" stroke="#5e89cc" stroke-linecap="square" stroke-width="1.0"/>
+    <path d="M30.2273,11.7144L25.7734,14.2858" fill="#000000" stroke="#5e89cc" stroke-linecap="square" stroke-width="1.0"/>
+    <path d="M28,26.4287V31.5716" fill="#000000" stroke="#5e89cc" stroke-linecap="square" stroke-width="1.0"/>
+    <path d="M25.7734,27.7144L30.2273,30.2858" fill="#000000" stroke="#5e89cc" stroke-linecap="square" stroke-width="1.0"/>
+    <path d="M30.2273,27.7144L25.7734,30.2858" fill="#000000" stroke="#5e89cc" stroke-linecap="square" stroke-width="1.0"/>
+    <path d="M20,18.4287V23.5716" fill="#000000" stroke="#5e89cc" stroke-linecap="square" stroke-width="1.0"/>
+    <path d="M17.7734,19.7144L22.2273,22.2858" fill="#000000" stroke="#5e89cc" stroke-linecap="square" stroke-width="1.0"/>
+    <path d="M22.2273,19.7144L17.7734,22.2858" fill="#000000" stroke="#5e89cc" stroke-linecap="square" stroke-width="1.0"/>
+  </g>
+</svg>
